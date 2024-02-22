@@ -27,5 +27,6 @@ const corentinNelhomme = new Person(
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ller&layout=compact)
 
 
