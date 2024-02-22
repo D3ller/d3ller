@@ -16,7 +16,7 @@ const corentinNelhomme = new Person(
   "Développeur Full-Stack"
 );
 ```
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ller&layout=compact)
 
 ## Language & Tools
 
@@ -25,8 +25,3 @@ const corentinNelhomme = new Person(
     <img src="https://skillicons.dev/icons?i=html,css,sass,vuejs,git,docker,mysql,php,nodejs" />
   </a>
 </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ller&layout=compact)
-
-
