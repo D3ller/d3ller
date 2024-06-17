@@ -20,7 +20,7 @@ const corentinNelhomme = new Person(
 
 ## Language & Tools
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,vuejs,git,docker,mysql,php,nodejs,nuxtjs" />
   </a>
