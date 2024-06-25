@@ -22,6 +22,6 @@ const corentinNelhomme = new Person(
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,vuejs,git,docker,mysql,php,nodejs,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,vuejs,nuxtjs,git,docker,mysql,php,nodejs" />
   </a>
 </p>
