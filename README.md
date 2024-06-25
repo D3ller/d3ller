@@ -12,8 +12,8 @@ class Person {
 const corentinNelhomme = new Person(
   "Corentin",
   "Nelhomme",
-  19,
-  "Développeur Full-Stack"
+  20,
+  "Front-end Developer"
 );
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ller&layout=compact)
