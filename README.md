@@ -2,17 +2,17 @@
 
 ```ts
 interface D3ller {
-firstName: string;
-lastName: string;
-age: number;
-job: string;
+  firstName: string;
+  lastName: string;
+  age: number;
+  job: string;
 }
 
 let me : D3ller = {
-firstName: "Corentin";
-lastName: "Nelhomme";
-age: 20;
-job: "Full-stack Developper";
+  firstName: "Corentin";
+  lastName: "Nelhomme";
+  age: 20;
+  job: "Full-stack Developper";
 }
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ller&layout=compact)
