@@ -1,20 +1,19 @@
 ## Hi i'm Corentin 😶‍🌫️
 
-```js
-class Person {
-  constructor(prenom, nom, age, metier) {
-    this.prenom = prenom;
-    this.nom = nom;
-    this.age = age;
-    this.metier = metier;
-  }
+```ts
+interface D3ller {
+firstName: string;
+lastName: string;
+age: number;
+job: string;
+}
 
-const corentinNelhomme = new Person(
-  "Corentin",
-  "Nelhomme",
-  20,
-  "Front-end Developer"
-);
+let me : D3ller = {
+firstName: "Corentin";
+lastName: "Nelhomme";
+age: 20;
+job: "Full-stack Developper";
+}
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ller&layout=compact)
 
