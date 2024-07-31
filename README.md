@@ -15,7 +15,7 @@ let me : D3ller = {
   job: "Full-stack Developper";
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ller&langs_count=8&layout=compac)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ller&langs_count=8&layout=compact)
 
 ## Language & Tools
 
