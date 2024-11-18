@@ -21,6 +21,6 @@ let me : D3ller = {
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,supabase,sass,tailwind,bootstrap,express" />
+    <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,supabase,sass,tailwind,bootstrap,express,postgres,prisma" />
   </a>
 </p>
