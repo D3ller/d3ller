@@ -2,24 +2,26 @@
 
 ```cs
 
-class People {
-int Age {get; private set;}
-string FirstName {get; private set;}
-string LastName {get; private set;}
+class People
+{
+    public int Age { get; private set; }
+    public string FirstName { get; private set; }
+    public string LastName { get; private set; }
 
-public People(int age, string fn, string ln) {
-  Age = age;
-  FirstName = fn;
-  LastName = ln;
+    public People(int age, string firstName, string lastName)
+    {
+        Age = age;
+        FirstName = firstName;
+        LastName = lastName;
+    }
+
+    public void Present()
+    {
+        Console.WriteLine($"Hello, my name is {FirstName} {LastName}. I'm {Age} years old.");
+    }
 }
 
-void Present() {
-Console.WriteLine($"Hello my name is {FirstName} {LastName} i'm {Age} years old");
-} 
-
-}
-
-People Me = new People(20, "Corentin", "Nelhomme");
+People Me  = new People(20, "Corentin", "Nelhomme");
 Me.Present();
 ```
 ## Language & Tools
