@@ -1,19 +1,26 @@
 ## Hi i'm Corentin 😶‍🌫️
 
-```ts
-interface D3ller {
-  firstName: string;
-  lastName: string;
-  age: number;
-  job: string;
+```cs
+
+class People {
+int Age {get; private set;}
+string FirstName {get; private set;}
+string LastName {get; private set;}
+
+public People(int age, string fn, string ln) {
+  Age = age;
+  FirstName = fn;
+  LastName = ln;
 }
 
-let me : D3ller = {
-  firstName: "Corentin";
-  lastName: "Nelhomme";
-  age: 20;
-  job: "Full-stack Developper";
+void Present() {
+Console.WriteLine($"Hello my name is {FirstName} {LastName} i'm {Age} years old");
+} 
+
 }
+
+People Me = new People(20, "Corentin", "Nelhomme");
+Me.Present();
 ```
 ## Language & Tools
 
