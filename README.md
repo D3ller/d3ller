@@ -24,10 +24,3 @@ class People
 People Me  = new People(20, "Corentin", "Nelhomme");
 Me.Present();
 ```
-## Language & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,sass,tailwind,bootstrap,express,postgres,prisma,cs" />
-  </a>
-</p>
