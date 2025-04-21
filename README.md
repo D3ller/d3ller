@@ -21,6 +21,6 @@ class People
     }
 }
 
-People Me  = new People(20, "Corentin", "Nelhomme");
+People Me  = new People(21, "Corentin", "Nelhomme");
 Me.Present();
 ```
