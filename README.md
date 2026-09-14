@@ -1,26 +1,5 @@
-## corentin.
+<div align="left">
+  <img src="./.github/banner.png" width="100%" height="200" style="object-fit: cover;">
 
-```cs
-
-class People
-{
-    public int Age { get; private set; }
-    public string FirstName { get; private set; }
-    public string LastName { get; private set; }
-
-    public People(int age, string firstName, string lastName)
-    {
-        Age = age;
-        FirstName = firstName;
-        LastName = lastName;
-    }
-
-    public void Present()
-    {
-        Console.WriteLine($"Hello, my name is {FirstName} {LastName}. I'm {Age} years old.");
-    }
-}
-
-People Me  = new People(22, "Corentin", "Nelhomme");
-Me.Present();
-```
+<h2>Open Source Developer ✶</h2>
+</div>
